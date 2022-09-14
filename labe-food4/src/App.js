@@ -1,9 +1,12 @@
+import {Router} from './routes'
+import { ChakraProvider } from '@chakra-ui/react'
 
-export const App = () => {
+
+const App = () => {
   return (
-    <div>
-      <h1> LABE FOOD 4</h1>
-    </div>
+    <ChakraProvider>
+       <Router />
+    </ChakraProvider>
   );
 }
 
