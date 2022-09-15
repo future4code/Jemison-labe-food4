@@ -1,7 +1,29 @@
+import { 
+    EmailStyled, 
+    LogoFutureEats, 
+    TitleStyled 
+} from "./styled"
+
+
 export const LoginPage = () => {
 
     return (
-        <h1>Login Page</h1>
+
+        <div>
+            <LogoFutureEats>
+
+            </LogoFutureEats>
+            <TitleStyled>
+                <p>Entrar</p>
+            </TitleStyled>
+            <EmailStyled>
+                <p>email</p>
+            </EmailStyled>
+
+
+
+
+        </div> 
     )
 
 
