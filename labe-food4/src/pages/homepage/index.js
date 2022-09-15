@@ -1,7 +1,21 @@
+//import { RectangleStyled } from "./styled2"
+import { MainStyled } from "./styled"
+import logo from '../../assets/logoeats.png'
+
+
 export const HomePage = () => {
 
+
     return (
-        <h1>Home Page</h1>
+        
+        <MainStyled>
+            <div>
+                <img src={logo} alt="logo do LabeFood"/>
+            </div>
+        </MainStyled>
+   
+        
+        
     )
 
 
