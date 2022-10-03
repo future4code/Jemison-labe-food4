@@ -3,6 +3,7 @@
 Site desenvolvido para ser uma plataforma de Delivery. Foi utilizada a API labeFoods para as requisições do projeto.
 
 ## 📱 Link Surge
+https://bad-food.surge.sh/signuppage
 
 
 ## 👩‍💻 Desenvolvedores
